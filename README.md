@@ -1,0 +1,1 @@
+# Sway-Full-Version
