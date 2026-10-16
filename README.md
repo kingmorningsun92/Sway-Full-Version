@@ -243,4 +243,4 @@ This repository serves as the official landing page for Sway. The software is di
 **Get the most recent version of Sway today!**
 
 ---
-**Last updated:** 2026-10-16 02:30:55 UTC
+**Last updated:** 2026-10-16 07:44:52 UTC
